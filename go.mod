@@ -3,7 +3,7 @@ module github.com/micro/mdns
 go 1.25.0
 
 require (
-	github.com/miekg/dns v1.1.3
+	github.com/miekg/dns v1.1.25
 	golang.org/x/net v0.38.0
 )
 
