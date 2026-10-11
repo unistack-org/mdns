@@ -4,7 +4,7 @@ go 1.25.0
 
 require (
 	github.com/miekg/dns v1.1.25
-	golang.org/x/net v0.54.0
+	golang.org/x/net v0.55.0
 )
 
 require (
